@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(540, 1080);
+  createCanvas(1080, 1080);
   imageMode (CENTER);
   rectMode (CENTER);
   textAlign (CENTER);
