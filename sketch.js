@@ -8,11 +8,11 @@ function setup() {
 
 function draw() {
   background(255, 0, 0);
-  image (splash, width/2, 100, 400, 200);
-  image (run, width/2, 300, 400, 200);
-  image (fork, width/2, 500, 400, 200);
-  image (cave, width/2, 700, 400, 200);
-  image (uwin, width/2, 900, 400, 200);
+  image (splash, width/2, 100, 500, 300);
+  image (run, width/2, 400, 500, 300);
+  image (fork, width/2, 600, 500, 300);
+  image (cave, width/2, 800, 500, 300);
+  image (uwin, width/2, 1000, 500, 300);
     fill ("yellow");
   
   
